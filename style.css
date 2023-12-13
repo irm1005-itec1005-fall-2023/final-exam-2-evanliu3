@@ -67,3 +67,24 @@ body {
 /*
  * ADD YOUR STYLES HERE
  */
+ <html>
+ <head>
+ <style>
+ div {
+   background-color: lightgrey;
+   width: 300px;
+   border: 15px solid black;
+   padding: 40px;
+   margin: 200px;
+ }
+ </style>
+ </head>
+ <body>
+ 
+ <div>
+       I'm a web developer based in Ottawa, Canada. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.</div>
+ 
+ </body>
+ </html>
+
+ 
